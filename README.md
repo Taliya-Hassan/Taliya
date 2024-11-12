@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm Taliya Hassan</h1>
 <h3 align="center">Aspiring Software Engineer & Data Analyst from Karachi, Pakistan</h3>
 
+- 🔭 **I’m currently working on my Data visualization and Machine learning skills**
+
+- 🌱 **I’m learning about ML concepts and enhancing my skills in data analysis and visualization.**
+
+- 🤝 **Interested in working on data science, ML projects, or any creative tech solutions. I’m always excited to connect with like-minded people!**
+
+- 📫 How to reach me **https://www.linkedin.com/in/taliya-hassan-335486267**
+
+- ⚡ Fun fact **When I’m not coding, I’m probably exploring new tools and trends that could shape the tech landscape!**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
